@@ -15,7 +15,7 @@
 ### Memory
 - A survey of agent memory in the second half: Towards self-evolving and long-horizon agents, TMLR 2026.
 - Human-inspired perspectives: A survey on AI long-term memory, Proceedings of IEEE, 2026.
-- [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136), 2026. [GitHub]
+- [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136), 2026. [GitHub](https://github.com/asinghcsu/AgenticRAG-Survey)
 
 ### Tools (Skills)
 
