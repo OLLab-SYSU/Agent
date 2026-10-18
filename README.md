@@ -9,17 +9,20 @@
 
 
 
-## Reasoning (Planning)
+### Reasoning (Planning)
 - [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538), TMLR 2026. [GitHub](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
-## Memory
+### Memory
 - A survey of agent memory in the second half: Towards self-evolving and long-horizon agents, TMLR 2026.
 - Human-inspired perspectives: A survey on AI long-term memory, Proceedings of IEEE, 2026.
 - [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136), 2026. [GitHub]
 
-## Tools (Skills)
+### Tools (Skills)
 
 - A comprehensive survey on agent skills: Taxonomy, techniques, and application, 2026.
+
+### World Models
+- Bridging the agent-world gap: Text world models for LLM-based agents, 2026.
 
 # Self-Evolving Agent
 
@@ -40,8 +43,12 @@
 
 
 # Applications
-## Search Agents
+### Search Agents
 - A survey of large language model-based search agents, ACL 2026.
 
-## Optimization Agents
-- AlgoEvo: Self-evolving agentic search for automated algorithm discovery, 2026. 
+### Optimization Agents
+- AlgoEvo: Self-evolving agentic search for automated algorithm discovery, 2026.
+
+### Code Agents
+- AlphaEvolve: A coding agent for scientific and algorithmic discovery, 2025.
+- From code foundation models to agents and applications: A comprehensive survey and practical guide to code intelligence, 2026.
