@@ -51,5 +51,5 @@
 - AlphaEvolve: A coding agent for scientific and algorithmic discovery, 2025.
 - From code foundation models to agents and applications: A comprehensive survey and practical guide to code intelligence, 2026.
 
-### Embodied AI
+### Embodied Agents
 - Autonomous Embodied AI: Towards Self-evolving Intelligence, Springer, 2026.
