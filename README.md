@@ -7,8 +7,6 @@
 - [Advances and Challenges in Foundation Agents](https://arxiv.org/abs/2504.01990), 2026.
 - AI Agent: Foundations and Applications, (智能体：理论基础与应用实践，电子工业出版社), 2026.
 
-
-
 ### Reasoning (Planning)
 - [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538), TMLR 2026. [GitHub](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -18,14 +16,14 @@
 - [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136), 2026. [GitHub](https://github.com/asinghcsu/AgenticRAG-Survey)
 
 ### Tools (Skills)
-
 - A comprehensive survey on agent skills: Taxonomy, techniques, and application, 2026.
 
 ### World Models
+- A definition and roadmap for world models, 2026.
 - Bridging the agent-world gap: Text world models for LLM-based agents, 2026.
+- Embodied AI: From LLMs to world models, IEEE Circuites and Systems Magazine, 2025.
 
 # Self-Evolving Agent
-
 - A Taxonomy of Self-evolving Agents, 2026. [Blog Post](https://lsl.zone/blog/2026/a-taxonomy-of-self-evolving-agents/)
 
 
@@ -52,3 +50,6 @@
 ### Code Agents
 - AlphaEvolve: A coding agent for scientific and algorithmic discovery, 2025.
 - From code foundation models to agents and applications: A comprehensive survey and practical guide to code intelligence, 2026.
+
+### Embodied AI
+- Autonomous Embodied AI: Towards Self-evolving Intelligence, Springer, 2026.
