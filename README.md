@@ -1,1 +1,47 @@
 # Agent
+- Towards long-horizon agents: A survey, 2026.
+- From question answering to task completion: A survey on agent system and harness design, 2026.
+- Beyond pipelines: a survey of the paradigm shift toward model-native agentic AI, 2025. [GitHub](https://github.com/ADaM-BJTU/model-native-agentic-ai)
+- The landscape of agentic reinforcement learning for LLMs: A survey, Transactions on Machine Learning Research, 2026.
+
+- [Advances and Challenges in Foundation Agents](https://arxiv.org/abs/2504.01990), 2026.
+- AI Agent: Foundations and Applications, (智能体：理论基础与应用实践，电子工业出版社), 2026.
+
+
+
+## Reasoning (Planning)
+- [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538), TMLR 2026. [GitHub](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
+
+## Memory
+- A survey of agent memory in the second half: Towards self-evolving and long-horizon agents, TMLR 2026.
+- Human-inspired perspectives: A survey on AI long-term memory, Proceedings of IEEE, 2026.
+- [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136), 2026. [GitHub]
+
+## Tools (Skills)
+
+- A comprehensive survey on agent skills: Taxonomy, techniques, and application, 2026.
+
+# Self-Evolving Agent
+
+- A Taxonomy of Self-evolving Agents, 2026. [Blog Post](https://lsl.zone/blog/2026/a-taxonomy-of-self-evolving-agents/)
+
+
+- Self-evolving AI agents: a survey of feedback-driven generation, evaluation, memory, and self-modification, 2026. [Web](http://agent-evolution.com/)
+
+- Dream-RSI: Recursive self-improvement through evolving worlds, 2026.  [GitHub](https://github.com/zhengkid/Dream-RSI)
+
+- A survey of self-evolving agents: what, when, how, and where to evolve on the path to artificial super intelligence, Transactions on Machine Learning Research, 2026. [GitHub](https://github.com/CharlesQ9/Self-Evolving-Agents) 
+
+- Self-improvement in modern agent systems: A suvery, 2026. [GitHub](https://github.com/selfimproving-agent/awesome-Self-Improving-Agents)  [Project](https://selfimproving-agent.github.io/)
+
+- A systematic survey of self-evolving agents: from model-centric to environment-driven co-evolution, 2026.
+
+- A Survey on Self-Improving Test-Time Intelligence: Feedback-Driven Adapting, Learning, and Scaling at Inference, Machine Intelligence Research, 2026. [GitHub](https://github.com/mr-eggplant/awesome_test_time_intelligence)
+
+
+# Applications
+## Search Agents
+- A survey of large language model-based search agents, ACL 2026.
+
+## Optimization Agents
+- AlgoEvo: Self-evolving agentic search for automated algorithm discovery, 2026. 
