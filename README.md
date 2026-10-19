@@ -16,7 +16,8 @@
 - [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136), 2026. [GitHub](https://github.com/asinghcsu/AgenticRAG-Survey)
 
 ### Tools (Skills)
-- A comprehensive survey on agent skills: Taxonomy, techniques, and application, 2026.
+- A comprehensive survey on agent skills: Taxonomy, techniques, and applications, 2026.
+- Skill retrieval augmentation for agentic AI, 2026.
 
 ### World Models
 - A definition and roadmap for world models, 2026.
