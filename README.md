@@ -7,15 +7,15 @@
 - [Advances and Challenges in Foundation Agents](https://arxiv.org/abs/2504.01990), 2026.
 - AI Agent: Foundations and Applications, (智能体：理论基础与应用实践，电子工业出版社), 2026.
 
-### Reasoning (Planning)
+### Reasoning and Planning
 - [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538), TMLR 2026. [GitHub](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
-### Memory
+### Memory and RAG
 - A survey of agent memory in the second half: Towards self-evolving and long-horizon agents, TMLR 2026.
 - Human-inspired perspectives: A survey on AI long-term memory, Proceedings of IEEE, 2026.
 - [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136), 2026. [GitHub](https://github.com/asinghcsu/AgenticRAG-Survey)
 
-### Tools (Skills)
+### Tools and Skills
 - A comprehensive survey on agent skills: Taxonomy, techniques, and applications, 2026.
 - Skill retrieval augmentation for agentic AI, 2026.
 
@@ -42,11 +42,14 @@
 
 
 # Applications
-### Search Agents
-- A survey of large language model-based search agents, ACL 2026.
-
 ### Optimization Agents
 - AlgoEvo: Self-evolving agentic search for automated algorithm discovery, 2026.
+- The FM agent, 2026. [百度智能云通用自进化智能体“伐谋”]
+- 工业智能体：体系架构、关键技术与未来展望，中国科学：技术科学，2026.
+- 车间调度大模型——魔豆智造：实现路径、关键技术与典型应用，机械工程学报，2026.
+
+### Search Agents
+- A survey of large language model-based search agents, ACL 2026.
 
 ### Code Agents
 - AlphaEvolve: A coding agent for scientific and algorithmic discovery, 2025.
