@@ -46,6 +46,7 @@
 - AlgoEvo: Self-evolving agentic search for automated algorithm discovery, 2026.
 - The FM agent, 2026. [百度智能云通用自进化智能体“伐谋”]
 - 工业智能体：体系架构、关键技术与未来展望，中国科学：技术科学，2026.
+- 工业大模型：体系架构、关键技术与典型应用，中国科学：信息科学，2024.
 - 车间调度大模型——魔豆智造：实现路径、关键技术与典型应用，机械工程学报，2026.
 
 ### Search Agents
