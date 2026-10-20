@@ -1,4 +1,5 @@
 # Agent
+#＃ Agent=Model*Harness
 - Towards long-horizon agents: A survey, 2026.
 - From question answering to task completion: A survey on agent system and harness design, 2026.
 - Beyond pipelines: a survey of the paradigm shift toward model-native agentic AI, 2025. [GitHub](https://github.com/ADaM-BJTU/model-native-agentic-ai)
