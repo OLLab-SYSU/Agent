@@ -1,5 +1,5 @@
 # Agent
-## Agent=Model*Harness
+## Agent = Model x Harness
 - Towards long-horizon agents: A survey, 2026.
 - From question answering to task completion: A survey on agent system and harness design, 2026.
 - Beyond pipelines: a survey of the paradigm shift toward model-native agentic AI, 2025. [GitHub](https://github.com/ADaM-BJTU/model-native-agentic-ai)
@@ -28,7 +28,7 @@
 # Self-Evolving Agent
 - A Taxonomy of Self-evolving Agents, 2026. [Blog Post](https://lsl.zone/blog/2026/a-taxonomy-of-self-evolving-agents/)
 
-
+- The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement, 2026.
 - Self-evolving AI agents: a survey of feedback-driven generation, evaluation, memory, and self-modification, 2026. [Web](http://agent-evolution.com/)
 
 - Dream-RSI: Recursive self-improvement through evolving worlds, 2026.  [GitHub](https://github.com/zhengkid/Dream-RSI)
