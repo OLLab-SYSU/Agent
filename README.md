@@ -2,6 +2,7 @@
 ## Agent = Model x Harness
 - Towards long-horizon agents: A survey, 2026.
 - From question answering to task completion: A survey on agent system and harness design, 2026.
+- Externalization in LLM agents: A unified review of memory, skills, protocols and harness engineering, 2026.
 - Beyond pipelines: a survey of the paradigm shift toward model-native agentic AI, 2025. [GitHub](https://github.com/ADaM-BJTU/model-native-agentic-ai)
 - The landscape of agentic reinforcement learning for LLMs: A survey, Transactions on Machine Learning Research, 2026.
 
