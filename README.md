@@ -61,4 +61,4 @@
 
 ### Embodied Agents
 - Autonomous Embodied AI: Towards Self-evolving Intelligence, Springer, 2026.
-- Physical AI: Concepts, Techniques, and Challenges
+- Physical AI: Concepts, Techniques, and Challenges, 2026.
