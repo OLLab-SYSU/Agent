@@ -5,6 +5,7 @@
 - Externalization in LLM agents: A unified review of memory, skills, protocols and harness engineering, 2026.
 - Beyond pipelines: a survey of the paradigm shift toward model-native agentic AI, 2025. [GitHub](https://github.com/ADaM-BJTU/model-native-agentic-ai)
 - The landscape of agentic reinforcement learning for LLMs: A survey, Transactions on Machine Learning Research, 2026.
+- Harness Scaling for Generalizable Agentic Reinforcement Learning, 2026.
 
 - [Advances and Challenges in Foundation Agents](https://arxiv.org/abs/2504.01990), 2026.
 - AI Agent: Foundations and Applications, (智能体：理论基础与应用实践，电子工业出版社), 2026.
