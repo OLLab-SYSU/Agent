@@ -64,4 +64,3 @@
 - Autonomous Embodied AI: Towards Self-evolving Intelligence, Springer, 2026.
 - Physical AI: Concepts, Techniques, and Challenges, 2026.
 - 物理智能：世界动作模型的原理、系统与实践，电子工业出版社，2026.
-- 
