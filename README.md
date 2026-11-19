@@ -17,6 +17,7 @@
 - A survey of agent memory in the second half: Towards self-evolving and long-horizon agents, TMLR 2026.
 - Human-inspired perspectives: A survey on AI long-term memory, Proceedings of IEEE, 2026.
 - [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136), 2026. [GitHub](https://github.com/asinghcsu/AgenticRAG-Survey)
+- MemSkill: Learning and evolving memory skills for self-evolving agents, EMNLP 2026.
 
 ### Tools and Skills
 - A comprehensive survey on agent skills: Taxonomy, techniques, and applications, 2026.
@@ -62,3 +63,5 @@
 ### Embodied Agents
 - Autonomous Embodied AI: Towards Self-evolving Intelligence, Springer, 2026.
 - Physical AI: Concepts, Techniques, and Challenges, 2026.
+- 物理智能：世界动作模型的原理、系统与实践，电子工业出版社，2026.
+- 
